@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaVyncy", "DaVyncy\DaVyncy.csproj", "{D0F074DB-1DF0-4EF0-BF86-E1C1F4E13D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaVyncyTests", "DaVyncyTests\DaVyncyTests.csproj", "{E8FA02CF-02C4-4CDF-A50D-6C8CD46EDFA8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0F5B412D-6991-41B0-B0F8-5BB88E153474}"
+	ProjectSection(SolutionItems) = preProject
+		DaVyncy.vsmdi = DaVyncy.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = DaVyncy.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F074DB-1DF0-4EF0-BF86-E1C1F4E13D47}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D0F074DB-1DF0-4EF0-BF86-E1C1F4E13D47}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{D0F074DB-1DF0-4EF0-BF86-E1C1F4E13D47}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{D0F074DB-1DF0-4EF0-BF86-E1C1F4E13D47}.Debug|x86.ActiveCfg = Debug|x86
+		{D0F074DB-1DF0-4EF0-BF86-E1C1F4E13D47}.Debug|x86.Build.0 = Debug|x86
+		{D0F074DB-1DF0-4EF0-BF86-E1C1F4E13D47}.Release|Any CPU.ActiveCfg = Release|x86
+		{D0F074DB-1DF0-4EF0-BF86-E1C1F4E13D47}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{D0F074DB-1DF0-4EF0-BF86-E1C1F4E13D47}.Release|Mixed Platforms.Build.0 = Release|x86
+		{D0F074DB-1DF0-4EF0-BF86-E1C1F4E13D47}.Release|x86.ActiveCfg = Release|x86
+		{D0F074DB-1DF0-4EF0-BF86-E1C1F4E13D47}.Release|x86.Build.0 = Release|x86
+		{E8FA02CF-02C4-4CDF-A50D-6C8CD46EDFA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FA02CF-02C4-4CDF-A50D-6C8CD46EDFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FA02CF-02C4-4CDF-A50D-6C8CD46EDFA8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E8FA02CF-02C4-4CDF-A50D-6C8CD46EDFA8}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E8FA02CF-02C4-4CDF-A50D-6C8CD46EDFA8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E8FA02CF-02C4-4CDF-A50D-6C8CD46EDFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FA02CF-02C4-4CDF-A50D-6C8CD46EDFA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8FA02CF-02C4-4CDF-A50D-6C8CD46EDFA8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E8FA02CF-02C4-4CDF-A50D-6C8CD46EDFA8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E8FA02CF-02C4-4CDF-A50D-6C8CD46EDFA8}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
